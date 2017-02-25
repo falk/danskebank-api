@@ -1,2 +1,2 @@
 # danskebank-api
-Danske Bank mobile app api in python
+Old project, not currently in progress.
